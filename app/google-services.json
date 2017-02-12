@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "454165282085",
+    "firebase_url": "https://blogapp-2284f.firebaseio.com",
+    "project_id": "blogapp-2284f",
+    "storage_bucket": "blogapp-2284f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:454165282085:android:44608c9a7f190b93",
+        "android_client_info": {
+          "package_name": "apps.dev.ndroid.blogapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "454165282085-7q24fpgi0e688df45k8cajamo1jf10tf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCks-whZypa3EupAuX36154Hl5fWdVkJps"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "454165282085-7q24fpgi0e688df45k8cajamo1jf10tf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
